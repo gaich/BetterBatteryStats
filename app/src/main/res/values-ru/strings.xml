@@ -208,12 +208,14 @@
     <string name="pref_enable_watchdog_summary">Включить обработку в дежурном режиме</string>
     <string name="pref_watchdog_on_unlock_title">Дежурный режим при разблокировке</string>
     <string name="pref_watchdog_on_unlock_summary">Дежурный режим работает после \'разблокировки\' (также как и после \'экран вкл\')</string>
+    <string name="pref_charged_trigger_percentage_title">Минимальный процент отсчёта "От заряжено"</string>
+    <string name="pref_charged_trigger_percentage_summary"> Если заряд батареи выше установленного процента при отключенном кабеле, метка "От заряжено" будет сохранена</string>
     <string name="pref_section_warnings">Предупреждения</string>
     <string name="pref_watchdog_awake_threshold_title">Порог бодрствования</string>
     <string name="pref_watchdog_awake_threshold_summary">Порог предупреждения (бодрствование / всего)</string>
     <string name="pref_ref_for_screen_off_title">Длительность порога [мин.]</string>
     <string name="pref_ref_for_screen_off_summary">Длительность отключения экрана до срабатывания</string>
-    <string name="pref_section_active_mon">Активный мониторинг</string>
+    <string name="pref_section_active_mon">Активный мониторинг</string
     <string name="pref_active_mon_enabled_title">Включить</string>
     <string name="pref_active_mon_enabled_summary">Включение активного мониторинга. Предупреждение: активный мониторинг может уменьшить жизнь батареи</string>
     <string name="pref_active_mon_freq_title">Частота [мин.]</string>
